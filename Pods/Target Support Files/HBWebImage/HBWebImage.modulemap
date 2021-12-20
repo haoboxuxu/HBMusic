@@ -1,0 +1,6 @@
+framework module HBWebImage {
+  umbrella header "HBWebImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

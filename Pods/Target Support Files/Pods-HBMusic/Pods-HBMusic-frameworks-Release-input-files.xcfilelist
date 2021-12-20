@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-HBMusic/Pods-HBMusic-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Appirater/Appirater.framework
+${BUILT_PRODUCTS_DIR}/HBGradientBlur/HBGradientBlur.framework
+${BUILT_PRODUCTS_DIR}/HBWebImage/HBWebImage.framework

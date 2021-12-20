@@ -1,0 +1,6 @@
+framework module HBGradientBlur {
+  umbrella header "HBGradientBlur-umbrella.h"
+
+  export *
+  module * { export * }
+}
